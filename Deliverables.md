@@ -9,3 +9,4 @@
 ![Dockerfile current](https://github.com/user-attachments/assets/3f5922ba-6809-419c-af88-d2580685d6da)
 
 
+Creating the dockerfile was easy.  Took a few attempts to push the file correctly due to different names used in docker vs codespace.  Original deployment on GCP failed due to typo.  
